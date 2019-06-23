@@ -8,7 +8,7 @@ pagination:
   enabled: true
 ---
 
-<!-- This loops through the paginated posts 
+<!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
@@ -18,8 +18,8 @@ pagination:
     {{ post.content }}
   </div>
 {% endfor %}
--->
-<!-- Pagination links 
+
+<!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
@@ -33,4 +33,3 @@ pagination:
     <span class="next ">Next</span>
   {% endif %}
 </div>
--->
