@@ -4,7 +4,6 @@
 
 layout: index
 title: Home
-permalink: /
 pagination:
   enabled: true
 ---
