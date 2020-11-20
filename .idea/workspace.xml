@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bundler" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89b54aff-1223-4c3d-ac5a-1360723d57f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_includes/featured-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/friends.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/intro-header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/mathjax_support.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/short-about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/sns-links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/keynote.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/animatescroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/archive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/hux-blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/hux-blog.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.tagcloud.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/simple-jekyll-search.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/snackbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/sw-registration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/icons/128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/icons/512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/custom-nav-links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive.md" beforeDir="false" afterPath="$PROJECT_DIR$/archive.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kV1T94tXwzjxKDXOkZ6Urt58wE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$/_includes" />
+      <recent name="$PROJECT_DIR$/_sass/layouts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89b54aff-1223-4c3d-ac5a-1360723d57f9" name="Default Changelist" comment="" />
+      <created>1605770952915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605770952915</updated>
+      <workItem from="1605770954231" duration="10301000" />
+      <workItem from="1605840107459" duration="6209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2698" y="429" key="RollbackChangesDialog" timestamp="1605773457163">
+      <screen x="1680" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2698" y="429" key="RollbackChangesDialog/4240.-97.2560.1440/0.0.1680.1050/1680.0.2560.1440@1680.0.2560.1440" timestamp="1605773457163" />
+    <state x="648" y="346" width="568" height="554" key="find.popup" timestamp="1605844088739">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="648" y="346" width="568" height="554" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1605844088739" />
+    <state x="2667" y="475" width="586" height="518" key="find.popup/4240.-97.2560.1440/0.0.1680.1050/1680.0.2560.1440@1680.0.2560.1440" timestamp="1605779828780" />
+    <state x="602" y="241" width="725" height="493" key="search.everywhere.popup" timestamp="1605844128126">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="602" y="241" width="725" height="493" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1605844128126" />
+    <state x="2597" y="331" width="685" height="676" key="search.everywhere.popup/4240.-97.2560.1440/0.0.1680.1050/1680.0.2560.1440@1680.0.2560.1440" timestamp="1605778751826" />
+  </component>
+</project>
