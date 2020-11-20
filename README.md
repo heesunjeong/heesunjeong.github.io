@@ -1,6 +1,6 @@
 # heesunjeong.github.io
 
-### start
+### Getting started
 ```
 bundle exec jekyll serve
 ```
